@@ -43,7 +43,7 @@ public class Connexion extends AppCompatActivity implements LoaderCallbacks<Curs
      * Id to identity READ_CONTACTS permission request.
      */
     private static final int REQUEST_READ_CONTACTS = 0;
-
+//top top top
     /**
      * A dummy authentication store containing known user names and passwords.
      * TODO: remove after connecting to a real authentication system.
